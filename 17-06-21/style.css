@@ -1,0 +1,202 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1024PX;
+    margin: auto;
+    background-color: lightblue;
+}
+
+.top {
+    height: 4px;
+    background-color: #003366;
+    position: relative;
+}
+
+.toprigth {
+    position: absolute;
+    background-color: #003366;
+    border-radius: 0 0 10px 10px;
+    right: 40px;
+}
+
+.toprigth ul li {
+    display: inline-block;
+    list-style: none;
+    border-right: 2px solid #fff;
+    padding: 0 15px;
+}
+
+.toprigth ul li:last-child {
+    border-right: none;
+}
+
+.toprigth ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.section {
+    width: 1024px;
+    height: 150px;
+    background-color: lightblue;
+}
+
+.down {
+    float: left;
+    width: 550px;
+    color: #fff;
+    margin-left: 100px;
+    padding-top: 30px;
+}
+
+.menu {
+    width: 300px;
+    float: left;
+    padding-top: 40px;
+
+}
+
+.menu ul li {
+    display: inline-block;
+    list-style: none;
+    padding: 0 10px;
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.clear {
+    clear: both;
+}
+
+.best {
+    width: 280px;
+    color: #fff;
+    position: absolute;
+    right: 280px;
+    top: 100px;
+}
+
+.movie {
+    width: 1024px;
+    background-color: white;
+}
+
+.moverigth {
+    width: 500px;
+    float: left;
+    margin-top: -75px;
+    margin-left: 100px;
+    border-radius: 15px;
+
+}
+
+.moverigth img {
+    width: 400px;
+    border: 5px solid white;
+}
+
+.moveleft {
+    width: 300px;
+    color: blue;
+    float: left;
+    padding-top: 10px;
+}
+
+.moveleft p {
+    padding-bottom: 10px;
+}
+
+.feature {
+    width: 1024px;
+    background-color: white;
+
+}
+
+.side {
+    width: 400px;
+    float: left;
+    padding-left: 20px;
+}
+
+.side h3 {
+
+    display: inline-block;
+    color: dodgerblue
+}
+
+.side p {
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+. .aside {
+    width: 600px;
+    float: left;
+}
+
+.aside h3 {
+
+    color: dodgerblue;
+}
+
+.sides {
+    color: darkblue;
+}
+
+.sides h3 {
+    color: green;
+}
+
+.sides img {
+    width: 50px;
+    float: left;
+    padding-right: 10px;
+}
+
+.sides p {
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+
+.soon img {
+    width: 150px;
+    float: left;
+    padding-right: 10px;
+}
+
+.soon p {
+    padding-bottom: 50px;
+}
+
+.soom img {
+    width: 150px;
+    float: left;
+    padding-right: 10px;
+}
+
+.resoure {
+    width: 1024px;
+    height: 130px;
+    background-color: deepskyblue;
+    color: white;
+    padding-top: 30px;
+
+}
+
+.read {
+    float: left;
+    width: 200px;
+    padding-left: 50px;
+
+}
+
+.read h4 {
+    padding-bottom: 20px;
+}
